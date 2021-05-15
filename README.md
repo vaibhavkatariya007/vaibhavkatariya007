@@ -1,3 +1,6 @@
+![](https://visitor-badge.glitch.me/badge?page_id=vaibhavkatariya007.vaibhavkatariya007)
+
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vaibhav Katariya</h1>
 
 <!-- <h3 align="center">Fullstack javascript developer, Bengaluru, <code><img height="40" src="https://raw.githubusercontent.com/github/explore/7391702b9ed55a70f0a4003331e888e3f3a11c8a/collections/made-in-india/made-in-india.png"></code> 
@@ -11,10 +14,7 @@ I'm a software developer/DevOps engineer. I'm from Dehradun, living in Bengaluru
 - 📫 Email **vaibhav.katariya085@gmail.com**
 - 📝 [Resume](https://ro20s25kt6.execute-api.ap-south-1.amazonaws.com/dev/uploads/Resume.pdf)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavkatariya007" alt="vaibhavkatariya" /> </p>
-<p align="left"> <a href='https://github.com/vaibhavkatariya007/' target='_blank'> <img src="https://img.shields.io/github/followers/vaibhavkatariya007?label=follow&style=social" alt="vaibhavkatariya" /> </a> </p>
-
-![](https://visitor-badge.glitch.me/badge?page_id=vaibhavkatariya007.vaibhavkatariya007)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavkatariya007" alt="vaibhavkatariya" /> <a href='https://github.com/vaibhavkatariya007/' target='_blank'> <img src="https://img.shields.io/github/followers/vaibhavkatariya007?label=follow&style=social" alt="vaibhavkatariya" /></a></p>  
 
 **Languages and Tools:**  
 
