@@ -1,17 +1,30 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Katariya</h1>
-<h3 align="center">Fullstack javascript developer, Bengaluru, India</h3>
+<h3 align="center">Fullstack javascript developer, Bengaluru, <code><img height="40" src="https://raw.githubusercontent.com/github/explore/7391702b9ed55a70f0a4003331e888e3f3a11c8a/collections/made-in-india/made-in-india.png"></code> 
+
+</h3>
 
 
 - 👨‍💻 Personal Website [https://vaibhavkatariya007.github.io/](https://vaibhavkatariya007.github.io/)
 - 📫 Email **vaibhav.katariya085@gmail.com**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavkatariya007" alt="vaibhavkatariya" /> </p>
+
 **Languages and Tools:**  
 
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></code>
+
+
 
 ## &#x1f4c8; GitHub Stats
 
@@ -19,7 +32,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavkatariya007&hide=java,ruby,shell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/vaibhavkatariya007/vaibhavkatariya007">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavkatariya007&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavkatariya007&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vaibhav's GitHub Stats" />
 </a>
 
 <a href="https://github.com/vaibhavkatariya007/vaibhavkatariya007.github.io">
@@ -27,7 +40,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavkatariya007&repo=vaibhavkatariya007.github.io&theme=material-palenight" />
 </a>
 
+
 <!--
+
+[![vaibhavkatariya007's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vaibhavkatariya007)](https://github.com/vaibhavkatariya007/vaibhavkatariya007)
 
 <a href="https://github.com/vaibhavkatariya007/github-readme-stats">
 # Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  
