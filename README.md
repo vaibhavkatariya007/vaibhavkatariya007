@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Katariya</h1>
-<h3 align="center">Fullstack javascript developer, Bengaluru, <code><img height="40" src="https://raw.githubusercontent.com/github/explore/7391702b9ed55a70f0a4003331e888e3f3a11c8a/collections/made-in-india/made-in-india.png"></code> 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vaibhav Katariya</h1>
 
+<!-- <h3 align="center">Fullstack javascript developer, Bengaluru, <code><img height="40" src="https://raw.githubusercontent.com/github/explore/7391702b9ed55a70f0a4003331e888e3f3a11c8a/collections/made-in-india/made-in-india.png"></code> 
 </h3>
+-->
+
+I'm a software developer/DevOps engineer. I'm from Dehradun, living in Bengaluru and currently working at Accion Labs. You can find me on [LinkedIn](https://www.linkedin.com/in/vaibhav-katariya-25051271/).
 
 
 - 👨‍💻 Personal Website [https://vaibhavkatariya007.github.io/](https://vaibhavkatariya007.github.io/)
