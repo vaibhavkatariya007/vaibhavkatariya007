@@ -4,7 +4,7 @@
 </h3>
 -->
 
-I'm a software developer/DevOps engineer. I'm from Dehradun, living in Bengaluru and currently working at Accion Labs. You can find me on [LinkedIn](https://www.linkedin.com/in/vaibhav-katariya-25051271/).
+I'm a software developer/DevOps engineer. I'm from Dehradun, living in Bengaluru and currently working at Accion Labs. You can find me on <a href="https://linkedin.com/in/vaibhav-katariya-25051271" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="karan-kiri" height="20" width="20" /></a>.
 
 
 - 👨‍💻 Personal Website [https://vaibhavkatariya007.github.io/](https://vaibhavkatariya007.github.io/)
