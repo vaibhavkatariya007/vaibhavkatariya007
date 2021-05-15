@@ -4,13 +4,17 @@
 </h3>
 -->
 
-I'm a software developer/DevOps engineer. I'm from Dehradun, living in Bengaluru and currently working at Accion Labs. You can find me on <a href="https://linkedin.com/in/vaibhav-katariya-25051271" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="karan-kiri" height="20" width="20" /></a>.
+I'm a software developer/DevOps engineer. I'm from Dehradun, living in Bengaluru and currently working at Accion Labs. You can find me on <a href="https://linkedin.com/in/vaibhav-katariya-25051271" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="karan-kiri" height="20" width="20" /></a>.
 
 
 - 👨‍💻 Personal Website [https://vaibhavkatariya007.github.io/](https://vaibhavkatariya007.github.io/)
 - 📫 Email **vaibhav.katariya085@gmail.com**
+- 📝 [Resume](https://ro20s25kt6.execute-api.ap-south-1.amazonaws.com/dev/uploads/Resume.pdf)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavkatariya007" alt="vaibhavkatariya" /> </p>
+<p align="left"> <a href='https://github.com/vaibhavkatariya007/' target='_blank'> <img src="https://img.shields.io/github/followers/vaibhavkatariya007?label=follow&style=social" alt="vaibhavkatariya" /> </a> </p>
+
+![](https://visitor-badge.glitch.me/badge?page_id=vaibhavkatariya007.vaibhavkatariya007)
 
 **Languages and Tools:**  
 
@@ -31,17 +35,22 @@ I'm a software developer/DevOps engineer. I'm from Dehradun, living in Bengaluru
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/vaibhavkatariya007/vaibhavkatariya007">
+<a href="https://github.com/vaibhavkatariya007/vaibhavkatariya007" target='_blank'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavkatariya007&hide=java,ruby,shell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/vaibhavkatariya007/vaibhavkatariya007">
+<a href="https://github.com/vaibhavkatariya007/vaibhavkatariya007" target='_blank'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavkatariya007&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vaibhav's GitHub Stats" />
 </a>
 
-<a href="https://github.com/vaibhavkatariya007/vaibhavkatariya007.github.io">
+<a href="https://github.com/vaibhavkatariya007/vaibhavkatariya007.github.io" target='_blank'>
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaibhavkatariya007&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&repo=vaibhavkatariya007.github.io" />
 </a>
+
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 
 
 <!--
