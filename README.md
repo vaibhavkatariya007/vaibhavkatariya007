@@ -5,6 +5,7 @@
 - 👨‍💻 Personal Website [https://vaibhavkatariya007.github.io/](https://vaibhavkatariya007.github.io/)
 - 📫 Email **vaibhav.katariya085@gmail.com**
 
+<!--
 
 <p align="center" style="display:flex;margin:25px 0;justify-content:center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karankiri&layout=default&hide=html" alt="karankiri" /></p>
 
@@ -18,7 +19,7 @@
 <a href="https://medium.com/@karankiri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@karankiri" height="30" width="30" /></a>
 </p>
 
-<!--
+
 **vaibhavkatariya007/vaibhavkatariya007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
