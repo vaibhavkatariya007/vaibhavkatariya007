@@ -5,6 +5,15 @@
 - 👨‍💻 Personal Website [https://vaibhavkatariya007.github.io/](https://vaibhavkatariya007.github.io/)
 - 📫 Email **vaibhav.katariya085@gmail.com**
 
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/vaibhavkatariya007/vaibhavkatariya007">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavkatariya007&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/vaibhavkatariya007/vaibhavkatariya007">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhavkatariya007&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
 <!--
 
 <p align="center" style="display:flex;margin:25px 0;justify-content:center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karankiri&layout=default&hide=html" alt="karankiri" /></p>
